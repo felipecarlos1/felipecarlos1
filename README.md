@@ -19,7 +19,7 @@
 ---
 
 - 🔭 Atualmente estou trabalhando em um projeto de um aplicativo para CCR na faculdade,
-- 🌱 Estou estudando sobre NEXT,
+- 🌱 Estou estudando NEXT,
 - 👯 Entre em contato estou disponivel para contribuir com novos projetos,
 - 🤔 Me ajude a aprimorar minhas habilidades em Java,
 - 💬 Entre em contato e tire suas dúvidas sobre o curso que estou fazendo,
